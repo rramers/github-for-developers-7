@@ -2,3 +2,4 @@
 Robert Ramers
 Novato Ca
 Turkey
+Favorite color is blue
